@@ -1,5 +1,5 @@
 var options = {
-  url: "https://m.lapl.org/validate/auth_rm.php?db=wapo", // 设置访问的 URL
+  url: "https://www.washingtonpost.com/subscribe/signin/special-offers/?s_oe=SPECIALOFFER_LOSANGELESPL", // 设置访问的 URL
   headers: {}, // 设置请求头，可以为空
   body: "" // 设置请求体，可以为空
 };
